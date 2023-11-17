@@ -1,0 +1,9 @@
+body {
+  background-image: url('C:\Users\Akanksha Christeena\OneDrive\Desktop\Tech panther webpage\background.jpg');
+  background-size: cover; /* Adjust this property as needed */
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}

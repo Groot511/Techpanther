@@ -1,0 +1,11 @@
+body {
+    /* Set background image properties */
+    background-image: url('file:///C:/Users/Akanksha%20Christeena/OneDrive/Desktop/Tech%20panther%20webpage/background.jpg');
+    background-size: cover; /* or 'contain' for different scaling options */
+    background-position: center center; /* adjust as needed */
+    background-repeat: no-repeat;
+    
+    /* Reset some default styles */
+    margin: 0;
+    padding: 0;
+}
